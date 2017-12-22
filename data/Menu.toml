@@ -1,0 +1,12 @@
+[About]
+	Name = "About"
+	URL = "/about"
+
+[Projects]
+	Name = "Projects"
+	Title = "Show list of projects"
+	URL = "/project/"
+
+[Resume]
+	Name = "Resume"
+	URL = "/Brahm_CV.pdf"
