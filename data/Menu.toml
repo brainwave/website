@@ -10,3 +10,7 @@
 [Resume]
 	Name = "Resume"
 	URL = "/files/Brahm_CV.pdf"
+
+[BLogs]
+	Name = "Blog Posts"
+	URL = "post/"

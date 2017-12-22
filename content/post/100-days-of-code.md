@@ -6,8 +6,7 @@ draft: false
 author: "Brahm Prakash Mishra"
 description: "Because discipline beats motivation - every time"
 keywords: ["thoughts", "motivation", "blog"]
-topics: ["portfolio"]
-tags: ["blog", "challenge", "100 days", "code"]
+tags: ["Challenges"]
 ---
 
 The distinction between A type and B type people is real. I know, because for most of my living memory I *have* been a B Type person. While it might have its own advantages, the danger of being afflicted with laziness or complacence is all the more. Not to mention - you can easily go down the slippery slope of depression. Which then leads to lack of physical movement ( including not leaving your now shabby room for extended lengths of time ), and that feeds into a vicious cycle of wallowing in eternal misery.
