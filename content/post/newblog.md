@@ -3,7 +3,7 @@ title: "The Way of the Blogger"
 description: "How my first sincere effort at a website turned out"
 date: 2017-12-22T15:24:20+05:30
 draft: false
-tags: ["Experience"]
+tags: ["Experiences"]
 ---
 Phew! I knew making a good website wasn't easy. But I had **0** clue it was this hard. Tl Dr; Its almost as hard as choosing a background for your phone.
 
