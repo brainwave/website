@@ -5,8 +5,8 @@
 [Projects]
 	Name = "Projects"
 	Title = "Show list of projects"
-	URL = "/project/"
+	URL = "/projects/index/"
 
 [Resume]
 	Name = "Resume"
-	URL = "/Brahm_CV.pdf"
+	URL = "/files/Brahm_CV.pdf"

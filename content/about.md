@@ -3,9 +3,11 @@ title: "About Me"
 date: 2017-12-21T21:26:28+05:30
 draft: false
 ---
-## Hey guys!
+### Hey guys!
+
 
 I am Brahm.
+
 
 Mechanical engineer by education and roboticist by interest, things I love the most are implementing fresh ideas, solving problems, the open source philosophy and the hacker way of life. I love writing code, particularly for systems that interact with the real world.
 
@@ -14,5 +16,7 @@ After graduation in 2014, I worked for a year at [Thorogood Associates](https://
 Documentation has never been my strong suite. This blog is a way to rectify that. Firstly, its about the various things I have done, and still remember! Most importantly however, its a way for me to (finally) document all my future work.
 
 Feel free to explore, analyse, comment or criticize.
+
+{{< figure src="/images/cover.png" caption="Porting Kinect drivers - first images from Kinect using ROS on TI Pandaboard" >}}
 
 P.S – This is a (new) work in progress. So over the next few days, I will be adding 3-4 of my projects daily. Hopefully end of a few weeks, I will have a completed blog and can keep it up to date then on.
