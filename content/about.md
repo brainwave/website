@@ -19,4 +19,4 @@ Feel free to explore, analyse, comment or criticize.
 
 {{< figure src="/images/cover.png" caption="Porting Kinect drivers - first images from Kinect using ROS on TI Pandaboard" >}}
 
-P.S – This is a (new) work in progress. So over the next few days, I will be adding 3-4 of my projects daily. Hopefully end of a few weeks, I will have a completed blog and can keep it up to date then on.
+P.S – I have fallen off the wagon, need to pick myself up and update my website. It is very important to record my time as its easy to forget what I did. 
